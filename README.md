@@ -1,7 +1,7 @@
 # HEIC to JPEG Converter
 This software is a tool designed to convert HEIC images into JPEG format.
 
-Just place HEIC photos into the src folder, and the converted JPEG images will be automatically saved in the out folder.
+Just place HEIC photos into the **img** folder, and the converted JPEG images will be automatically saved in the **out** folder.
 # Usage
 (Recommend) Utilize the provided release package with start.bat for an easier setup.
 
